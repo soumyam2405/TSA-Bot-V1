@@ -1,0 +1,7 @@
+config.json
+.idea
+.vscode
+/node_modules/
+giveaways.json
+commands/other/trivia.js
+json.sqlite
